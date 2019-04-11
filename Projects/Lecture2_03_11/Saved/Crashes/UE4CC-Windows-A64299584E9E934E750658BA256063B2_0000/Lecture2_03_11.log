@@ -1,0 +1,1509 @@
+﻿Log file open, 04/04/19 13:46:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Lecture2_03_11
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.280300
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.082s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.04-04.46.05:275][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.04-04.46.05:275][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.04-04.46.05:275][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Config/Windows/Engine.ini]
+[2019.04.04-04.46.05:275][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.04-04.46.05:275][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Config/Windows/Engine.ini]
+[2019.04.04-04.46.05:275][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Config/Windows/Engine.ini]
+[2019.04.04-04.46.05:275][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.04-04.46.05:275][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.04-04.46.05:275][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.04-04.46.05:275][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.04-04.46.05:275][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.04-04.46.05:275][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.04-04.46.05:275][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.04-04.46.05:275][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.04-04.46.05:275][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.04-04.46.05:275][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.04-04.46.05:275][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.04-04.46.05:275][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.04-04.46.05:275][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.04-04.46.05:275][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Config/Windows/Engine.ini]
+[2019.04.04-04.46.05:275][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.04-04.46.05:276][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.04-04.46.05:276][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.04-04.46.05:276][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.04-04.46.05:276][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.04-04.46.05:276][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.04-04.46.05:276][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.04-04.46.05:276][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.04-04.46.05:276][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.04-04.46.05:276][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.04-04.46.05:276][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.04-04.46.05:276][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.04-04.46.05:276][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.04-04.46.05:276][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.04-04.46.05:276][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Config/Windows/Engine.ini]
+[2019.04.04-04.46.05:276][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Config/Windows/Engine.ini]
+[2019.04.04-04.46.05:280][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Config/Windows/Scalability.ini]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Config/Windows/Scalability.ini]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Config/Windows/Scalability.ini]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Config/Windows/Scalability.ini]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.04-04.46.05:280][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Config/Windows/Scalability.ini]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Config/Windows/Scalability.ini]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Config/Windows/Scalability.ini]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.04-04.46.05:281][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.04-04.46.05:281][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.04-04.46.05:281][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.04-04.46.05:294][  0]LogHAL: Display: Platform has ~ 16 GB [17038475264 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.04-04.46.05:294][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.04-04.46.05:294][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.04-04.46.05:294][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Config/Windows/Scalability.ini]
+[2019.04.04-04.46.05:294][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.04-04.46.05:294][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.04-04.46.05:294][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Config/Windows/Scalability.ini]
+[2019.04.04-04.46.05:294][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.04-04.46.05:294][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Config/Windows/Scalability.ini]
+[2019.04.04-04.46.05:294][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Config/Windows/Scalability.ini]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Config/Windows/Scalability.ini]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Config/Windows/Scalability.ini]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Config/Windows/Scalability.ini]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.04-04.46.05:295][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.04-04.46.05:296][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.04-04.46.05:296][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Config/Windows/Engine.ini]
+[2019.04.04-04.46.05:296][  0]LogInit: Computer: DESKTOP-LIVI8DJ
+[2019.04.04-04.46.05:296][  0]LogInit: User: TaeJoon
+[2019.04.04-04.46.05:296][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.04-04.46.05:296][  0]LogInit: High frequency timer resolution =2.742193 MHz
+[2019.04.04-04.46.05:296][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.04.04-04.46.05:296][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.04-04.46.05:296][  0]LogMemory: Process Physical Memory: 102.34 MB used, 102.34 MB peak
+[2019.04.04-04.46.05:296][  0]LogMemory: Process Virtual Memory: 91.31 MB used, 91.31 MB peak
+[2019.04.04-04.46.05:296][  0]LogMemory: Physical Memory: 5806.22 MB used,  10442.93 MB free, 16249.16 MB total
+[2019.04.04-04.46.05:296][  0]LogMemory: Virtual Memory: 4648.05 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.04.04-04.46.05:325][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.04.04-04.46.05:325][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.04.04-04.46.05:773][  0]LogStreaming: Display: Took  0.448s to InitEngineTextLocalization.
+[2019.04.04-04.46.05:773][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.04-04.46.05:817][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.04-04.46.05:817][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.04-04.46.06:069][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.04-04.46.06:069][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.04-04.46.06:146][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2019.04.04-04.46.06:146][  0]LogD3D11RHI:       6052/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.04-04.46.06:163][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.04.04-04.46.06:163][  0]LogD3D11RHI:       128/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.04-04.46.06:165][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.04-04.46.06:165][  0]LogD3D11RHI:       0/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.04-04.46.06:165][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.04-04.46.06:196][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.04-04.46.06:196][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.04-04.46.06:196][  0]LogWindows: EnumDisplayDevices:
+[2019.04.04-04.46.06:196][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.04.04-04.46.06:197][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.04.04-04.46.06:198][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.04.04-04.46.06:198][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2019.04.04-04.46.06:199][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.04.04-04.46.06:199][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2019.04.04-04.46.06:199][  0]LogD3D11RHI:   Driver Version: 419.67 (internal:25.21.14.1967, unified:419.67)
+[2019.04.04-04.46.06:199][  0]LogD3D11RHI:      Driver Date: 3-17-2019
+[2019.04.04-04.46.06:199][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.04.04-04.46.06:250][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.04-04.46.06:269][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.04-04.46.06:679][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.04-04.46.06:691][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.04-04.46.06:703][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.04-04.46.06:715][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.04-04.46.06:727][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.04-04.46.06:740][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.04-04.46.06:751][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.04-04.46.06:764][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.04-04.46.06:769][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.04-04.46.06:842][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.04-04.46.06:842][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.04-04.46.06:842][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.04-04.46.06:842][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.04-04.46.06:842][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.04-04.46.06:842][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.04-04.46.06:843][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.04-04.46.06:843][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.04-04.46.06:843][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.04-04.46.06:843][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.04-04.46.06:843][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.04-04.46.06:843][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.04-04.46.06:843][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.04-04.46.06:843][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.04-04.46.06:843][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.04-04.46.06:843][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.04-04.46.06:843][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.04-04.46.06:843][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.04-04.46.06:844][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.04-04.46.06:905][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.04-04.46.06:905][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.04-04.46.06:930][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.04-04.46.06:930][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.04-04.46.06:941][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.04-04.46.06:952][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.04-04.46.06:964][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.04-04.46.06:979][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.04-04.46.07:023][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.04-04.46.07:023][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.04-04.46.07:023][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.04-04.46.07:069][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Intermediate/Shaders/WorkingDirectory/36556/).
+[2019.04.04-04.46.07:069][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/TaeJoon/AppData/Local/Temp/UnrealShaderWorkingDir/2CC972EB486F1E83DDF817AF37324238/'.
+[2019.04.04-04.46.07:070][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.04-04.46.07:070][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.04-04.46.07:070][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.04-04.46.07:632][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.04-04.46.07:694][  0]LogDerivedDataCache: Loaded boot cache 0.06s 79MB C:/Users/TaeJoon/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.04-04.46.07:694][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/TaeJoon/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.04-04.46.07:695][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.04-04.46.07:695][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.04-04.46.07:695][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.04-04.46.07:695][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.04-04.46.07:710][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.04-04.46.07:711][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.04-04.46.07:711][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.04-04.46.07:723][  0]LogDerivedDataCache: Using Local data cache path C:/Users/TaeJoon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.04-04.46.07:723][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.04-04.46.07:723][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.04-04.46.07:749][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.04-04.46.07:750][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.04-04.46.07:751][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.04-04.46.07:840][  0]LogAssetRegistry: FAssetRegistry took 0.0328 seconds to start up
+[2019.04.04-04.46.08:163][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.04-04.46.08:313][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.04-04.46.08:316][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.04-04.46.08:316][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.04-04.46.08:316][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.04-04.46.08:316][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.04-04.46.08:329][  0]LogNetVersion: Lecture2_03_11 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 409914083)
+[2019.04.04-04.46.08:789][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.052750 seconds
+[2019.04.04-04.46.08:797][  0]LogUObjectArray: 39777 objects as part of root set at end of initial load.
+[2019.04.04-04.46.08:797][  0]LogUObjectAllocator: 6915104 out of 0 bytes used by permanent object pool.
+[2019.04.04-04.46.08:797][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.04-04.46.09:680][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.04-04.46.09:693][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.04-04.46.10:411][  0]SourceControl: Source control is disabled
+[2019.04.04-04.46.10:411][  0]SourceControl: Source control is disabled
+[2019.04.04-04.46.10:412][  0]SourceControl: Source control is disabled
+[2019.04.04-04.46.10:414][  0]SourceControl: Source control is disabled
+[2019.04.04-04.46.10:573][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.04-04.46.10:655][  0]LogOcInput: OculusInput pre-init called
+[2019.04.04-04.46.10:789][  0]LogEngine: Initializing Engine...
+[2019.04.04-04.46.10:790][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.04-04.46.10:791][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.04-04.46.10:791][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.04-04.46.10:791][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.04-04.46.10:791][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.04-04.46.11:025][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.04-04.46.11:037][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.04-04.46.11:054][  0]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.04-04.46.11:163][  0]LogInit: FAudioDevice initialized.
+[2019.04.04-04.46.11:163][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.04-04.46.11:281][  0]LogDerivedDataCache: Saved boot cache 0.12s 79MB C:/Users/TaeJoon/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.04-04.46.11:295][  0]LogInit: Texture streaming: Enabled
+[2019.04.04-04.46.11:311][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.04-04.46.11:323][  0]LogInit: Transaction tracking system initialized
+[2019.04.04-04.46.11:340][  0]BlueprintLog: New page: Editor Load
+[2019.04.04-04.46.11:398][  0]LocalizationService: Localization service is disabled
+[2019.04.04-04.46.11:840][  0]LogFileCache: Scanning file cache for directory 'D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/' took 0.01s
+[2019.04.04-04.46.11:840][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.04-04.46.11:841][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.04-04.46.11:841][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.04-04.46.11:841][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.04-04.46.11:841][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.04-04.46.11:841][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.04-04.46.11:841][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.04-04.46.11:965][  0]SourceControl: Source control is disabled
+[2019.04.04-04.46.11:965][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.04-04.46.11:966][  0]LightingResults: New page: Lighting Build
+[2019.04.04-04.46.11:967][  0]MapCheck: New page: Map Check
+[2019.04.04-04.46.11:967][  0]LightingResults: New page: Lighting Build
+[2019.04.04-04.46.12:138][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.04-04.46.12:144][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.04-04.46.12:168][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.04-04.46.12:168][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2019.04.04-04.46.12:169][  0]LogFileHelpers: Loading map 'Template_Default' took 0.203
+[2019.04.04-04.46.12:285][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.04-04.46.12:294][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.04-04.46.12:303][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.04-04.46.12:312][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.04-04.46.12:316][  0]LogCollectionManager: Loaded 0 collections in 0.000958 seconds
+[2019.04.04-04.46.12:344][  0]LogFileCache: Scanning file cache for directory 'D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Collections/' took 0.01s
+[2019.04.04-04.46.12:344][  0]LogFileCache: Scanning file cache for directory 'D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Developers/TaeJoon/Collections/' took 0.00s
+[2019.04.04-04.46.12:344][  0]LogFileCache: Scanning file cache for directory 'D:/4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Collections/' took 0.01s
+[2019.04.04-04.46.12:344][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.04-04.46.12:353][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2651 classes and 620 folders.
+[2019.04.04-04.46.12:358][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.04-04.46.12:360][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:361][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:361][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:362][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:362][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:363][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:363][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:363][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:364][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:364][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:365][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:365][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:366][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:366][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:366][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:367][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:367][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:368][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:368][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:369][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:369][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:370][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:370][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:371][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:371][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:372][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.04-04.46.12:403][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.04-04.46.12:409][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.04.04-04.46.12:471][  0]LogSlate: Took 0.000361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.04-04.46.12:474][  0]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.04-04.46.12:484][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.04-04.46.12:575][  0]LogRenderer: Reallocating scene render targets to support 1084x576 Format 10 NumSamples 1 (Frame:1).
+[2019.04.04-04.46.12:751][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.04-04.46.12:752][  0]LogLoad: (Engine Initialization) Total time: 9.13 seconds
+[2019.04.04-04.46.12:752][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.04-04.46.12:775][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2019.04.04-04.46.12:845][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.04-04.46.12:897][  1]LogAssetRegistry: Asset discovery search completed in 5.0803 seconds
+[2019.04.04-04.46.12:899][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.04-04.46.12:899][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000121 seconds (updated 0 objects)
+[2019.04.04-04.46.14:763][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.46.16:088][190]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.04-04.46.19:966][421]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.04-04.46.19:978][421]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Lecture7/PS_Lecture7.PS_Lecture7
+[2019.04.04-04.46.19:985][421]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2019.04.04-04.46.21:836][489]LogSlate: Window 'PS_Lecture7' being destroyed
+[2019.04.04-04.46.22:582][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset" SILENT=true
+[2019.04.04-04.46.22:605][532]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture75A1749004F43BF12C5E4E7B9B32BF293.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset'
+[2019.04.04-04.46.22:605][532]LogFileManager: Warning: DeleteFile was unable to delete '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset', retrying in .5s...
+[2019.04.04-04.46.23:106][532]LogFileManager: Error: Error deleting file '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset'.
+[2019.04.04-04.46.23:106][532]LogSavePackage: Error: Error saving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset'
+[2019.04.04-04.46.25:951][532]LogSlate: Window 'Message' being destroyed
+[2019.04.04-04.46.25:958][532]EditorErrors: New page: Save Output
+[2019.04.04-04.46.25:958][532]EditorErrors: Warning: Error saving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset'
+[2019.04.04-04.46.27:645][632]LogSlate: Window 'Message Log' being destroyed
+[2019.04.04-04.46.27:649][632]LogSlate: Window 'Message Log' being destroyed
+[2019.04.04-04.46.46:878][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/Cow/M_Toy_Cow" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/Cow/M_Toy_Cow.uasset" SILENT=true
+[2019.04.04-04.46.46:900][750]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/M_Toy_CowFFAE340847493D8C870AC2BEC0FC3EEA.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/Cow/M_Toy_Cow.uasset'
+[2019.04.04-04.46.46:920][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/Cow/SM_Toy_Cow" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/Cow/SM_Toy_Cow.uasset" SILENT=true
+[2019.04.04-04.46.46:951][750]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/SM_Toy_CowD7A55D99423133AADBD10EA7F602ACFD.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/Cow/SM_Toy_Cow.uasset'
+[2019.04.04-04.46.46:966][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/Cow/T_Toy_Cow_M" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/Cow/T_Toy_Cow_M.uasset" SILENT=true
+[2019.04.04-04.46.46:985][750]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/T_Toy_Cow_MD2F07D9545003877169A6DA595AFD845.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/Cow/T_Toy_Cow_M.uasset'
+[2019.04.04-04.46.47:001][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/Cow/T_Toy_Cow_N" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/Cow/T_Toy_Cow_N.uasset" SILENT=true
+[2019.04.04-04.46.47:020][750]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/T_Toy_Cow_N2CFF4CB1415C61E4221132A1498D10EF.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/Cow/T_Toy_Cow_N.uasset'
+[2019.04.04-04.46.47:027][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/Cow/vel_219" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/Cow/vel_219.uasset" SILENT=true
+[2019.04.04-04.46.47:062][750]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/vel_219EC5F4D1940B511B646A4E69B71069331.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/Cow/vel_219.uasset'
+[2019.04.04-04.46.49:479][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset" SILENT=true
+[2019.04.04-04.46.49:496][869]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7B5E8229B4C712E559E9BDAAAB5B554B0.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset'
+[2019.04.04-04.46.49:496][869]LogFileManager: Warning: DeleteFile was unable to delete '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset', retrying in .5s...
+[2019.04.04-04.46.49:997][869]LogFileManager: Error: Error deleting file '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset'.
+[2019.04.04-04.46.49:997][869]LogSavePackage: Error: Error saving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset'
+[2019.04.04-04.46.52:072][869]LogSlate: Window 'Message' being destroyed
+[2019.04.04-04.46.52:078][869]EditorErrors: New page: Save Output
+[2019.04.04-04.46.52:078][869]EditorErrors: Warning: Error saving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset'
+[2019.04.04-04.46.54:426][  9]LogCascade: Quitting Cascade. FXSystem=0x000002062A29B2E0
+[2019.04.04-04.46.55:269][ 53]LogSlate: Window 'Message Log' being destroyed
+[2019.04.04-04.46.55:276][ 53]LogSlate: Window 'Message Log' being destroyed
+[2019.04.04-04.47.03:556][544]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Lecture7/PS_Lecture7_2.PS_Lecture7_2
+[2019.04.04-04.47.04:980][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_2" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_2.uasset" SILENT=true
+[2019.04.04-04.47.05:026][611]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_2104723414F6BD4B2D4C64888F477F53F.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_2.uasset'
+[2019.04.04-04.47.06:642][681]LogSlate: Window 'PS_Lecture7_2' being destroyed
+[2019.04.04-04.47.11:650][812]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.04-04.47.14:582][985]LogAIModule: Creating AISystem for world Lecture7
+[2019.04.04-04.47.14:584][985]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Lecture7.Lecture7
+[2019.04.04-04.47.14:607][985]Cmd: MAP LOAD FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Maps/Lecture7.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.04-04.47.14:607][985]LightingResults: New page: Lighting Build
+[2019.04.04-04.47.14:608][985]LoadErrors: New page: Loading map: Lecture7.umap
+[2019.04.04-04.47.14:608][985]MapCheck: New page: Map Check
+[2019.04.04-04.47.14:608][985]LightingResults: New page: Lighting Build
+[2019.04.04-04.47.14:679][985]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.04-04.47.14:731][985]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.04-04.47.14:731][985]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2019.04.04-04.47.14:732][985]LogFileHelpers: Loading map 'Lecture7' took 0.125
+[2019.04.04-04.47.24:755][244]LogSlate: Window 'Replace References?' being destroyed
+[2019.04.04-04.47.24:761][244]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.04-04.47.24:765][244]LogCascade: Quitting Cascade. FXSystem=0x000002062A29A020
+[2019.04.04-04.47.25:634][244]LogParticles: Warning: MaxCount = 1423 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7.PS_Lecture7)
+[2019.04.04-04.47.27:022][244]LogSlate: Window 'Save Content' being destroyed
+[2019.04.04-04.47.27:048][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset" SILENT=true
+[2019.04.04-04.47.27:059][244]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7D83FF9074A564D118EE1D4BD77F0DA91.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset'
+[2019.04.04-04.47.27:059][244]LogFileManager: Warning: DeleteFile was unable to delete '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset', retrying in .5s...
+[2019.04.04-04.47.27:560][244]LogFileManager: Error: Error deleting file '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset'.
+[2019.04.04-04.47.27:560][244]LogSavePackage: Error: Error saving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset'
+[2019.04.04-04.47.34:052][244]LogSlate: Window 'Message' being destroyed
+[2019.04.04-04.47.34:064][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lecture7" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Maps/Lecture7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.04-04.47.34:197][244]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Lecture70F378568420B0971B7B44F9491D5F9BA.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Maps/Lecture7.umap'
+[2019.04.04-04.47.34:231][244]LogFileHelpers: Saving map 'Lecture7' took 0.168
+[2019.04.04-04.47.34:236][244]EditorErrors: New page: Save Output
+[2019.04.04-04.47.34:236][244]EditorErrors: Warning: Error saving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset'
+[2019.04.04-04.47.35:319][244]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.04.04-04.47.36:928][340]LogSlate: Window 'Message Log' being destroyed
+[2019.04.04-04.47.36:933][340]LogSlate: Window 'Message Log' being destroyed
+[2019.04.04-04.47.38:754][449]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Lecture7/PS_Lecture7_2.PS_Lecture7_2
+[2019.04.04-04.47.40:129][494]LogSlate: Window 'PS_Lecture7_2' being destroyed
+[2019.04.04-04.47.40:876][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_2" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_2.uasset" SILENT=true
+[2019.04.04-04.47.40:899][534]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_2C52F5B5E4BF4D5C9AC0B118F56745FFA.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_2.uasset'
+[2019.04.04-04.47.57:907][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.48.00:325][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.48.02:043][801]LogParticles: Warning: MaxCount = 1423 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_2.PS_Lecture7_2)
+[2019.04.04-04.48.03:253][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_2" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_2.uasset" SILENT=true
+[2019.04.04-04.48.03:273][872]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_294BE5EA0441E202B7476C0B70071623B.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_2.uasset'
+[2019.04.04-04.48.18:001][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.48.24:788][158]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.48.44:072][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.48.46:874][481]LogParticles: Warning: MaxCount = 1423 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_2.PS_Lecture7_2)
+[2019.04.04-04.48.47:375][511]LogParticles: Warning: MaxCount = 1423 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_2.PS_Lecture7_2)
+[2019.04.04-04.48.48:815][597]LogParticles: Warning: MaxCount = 1423 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_2.PS_Lecture7_2)
+[2019.04.04-04.48.51:694][769]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.48.58:060][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.48.58:202][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_2" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_2.uasset" SILENT=true
+[2019.04.04-04.48.58:223][158]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_25E1D69C44424789839F107B0A2AEED1C.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_2.uasset'
+[2019.04.04-04.48.58:608][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.49.11:383][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.49.18:855][394]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp
+[2019.04.04-04.49.30:034][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.49.41:601][742]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.49.49:617][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.49.57:841][713]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.50.01:866][954]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.50.14:756][724]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.50.16:509][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.50.23:738][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.50.30:740][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.50.37:401][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.50.38:636][154]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.50.46:444][622]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.50.51:074][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.50.53:325][ 35]LogEditorTransaction: Undo Edit Curve
+[2019.04.04-04.50.54:344][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.50.57:863][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.51.00:586][462]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.51.02:297][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.51.03:015][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.51.07:432][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.51.09:902][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.51.10:684][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.51.10:725][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.51.24:005][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.51.33:064][407]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.51.41:460][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.52.02:095][148]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.52.07:131][450]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.52.09:783][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.52.30:839][872]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.52.33:729][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.52.55:713][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.53.12:742][380]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.53.19:664][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.53.30:289][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.54.14:534][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.54.22:509][559]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.54.28:009][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.54.30:326][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.54.32:294][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.54.36:060][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.54.42:200][740]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.54.47:832][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.54.49:823][196]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.54.52:270][343]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.54.59:423][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.55.03:141][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.55.04:242][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.55.07:514][256]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.55.10:176][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.55.12:846][576]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.55.13:136][593]LogEditorTransaction: Undo Edit Curve
+[2019.04.04-04.55.13:630][622]LogEditorTransaction: Undo Edit Curve
+[2019.04.04-04.55.13:996][643]LogEditorTransaction: Undo Edit Curve
+[2019.04.04-04.55.14:367][665]LogEditorTransaction: Undo Edit Curve
+[2019.04.04-04.55.14:721][686]LogEditorTransaction: Undo Insert Module
+[2019.04.04-04.55.15:668][742]LogEditorTransaction: Undo Delete Selected Module
+[2019.04.04-04.55.16:198][773]LogEditorTransaction: Undo Edit Curve
+[2019.04.04-04.55.16:603][797]LogEditorTransaction: Undo Delete Selected Module
+[2019.04.04-04.55.18:028][882]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.55.20:481][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.55.21:321][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.55.43:259][394]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.55.45:940][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.55.50:208][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.55.54:709][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.55.58:394][302]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.56.02:561][552]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.56.19:431][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.56.25:764][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.56.29:784][185]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.56.39:734][782]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.56.41:233][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.56.47:885][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.56.54:758][683]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.57.03:672][218]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.57.10:742][642]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.57.33:470][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.57.56:823][405]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.58.03:923][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.58.13:958][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.58.19:509][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.58.24:009][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.58.39:912][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.58.44:664][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.58.49:499][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.58.53:133][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.58.58:934][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.58.59:718][178]LogEditorTransaction: Undo Edit Curve
+[2019.04.04-04.59.00:576][228]LogEditorTransaction: Undo Edit Curve
+[2019.04.04-04.59.01:182][263]LogEditorTransaction: Undo Edit Curve
+[2019.04.04-04.59.08:289][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.59.15:957][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.59.36:071][354]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.59.42:259][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-04.59.56:854][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-04.59.59:532][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.00.01:865][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.00.05:798][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.00.07:199][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.00.12:767][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.00.32:308][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.00.35:975][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.00.37:076][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.00.41:060][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.00.41:926][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.00.43:807][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.00.45:356][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.00.49:707][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.00.51:691][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.00.54:025][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.00.55:725][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.00.57:092][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.01.01:276][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.01.02:559][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.01.03:627][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.01.11:450][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.01.14:107][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.01.29:411][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.01.54:315][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.01.57:050][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.01.58:700][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.02.01:217][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.02.03:417][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.02.05:801][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.02.12:453][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.02.14:787][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.02.29:417][745]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.02.34:483][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.03.09:188][128]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.04.15:305][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.04.27:979][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.05.23:689][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.05.30:273][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.05.41:242][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.05.44:209][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.05.45:976][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.05.47:093][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.05.48:442][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.05.50:277][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.06.12:747][134]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.06.19:536][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.06.27:696][ 19]LogSlate: Window 'Color Picker' being destroyed
+[2019.04.04-05.06.35:229][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.06.36:713][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.06.40:046][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.06.40:154][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.06.40:176][765]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp7AA6EABF4267954DAA5F56B05BD8D847.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.06.43:187][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.06.44:523][ 25]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.06.52:941][530]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.06.56:448][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.06.56:475][739]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp710DCDD047342FB0A444968CBDE6C185.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.07.02:039][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.07.04:872][242]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.07.12:324][689]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.07.35:611][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.07.38:714][272]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.07.42:316][488]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.07.46:950][766]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.07.51:753][ 54]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.08.04:490][816]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.08.08:769][ 73]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.08.14:467][414]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.08.15:651][485]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.08.20:651][785]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.08.27:118][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.08.39:686][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.08.41:542][ 33]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.08.42:891][114]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.08.51:488][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.09.03:972][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.09.08:375][643]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.09.14:742][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.09.20:043][343]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.09.23:926][576]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.09.28:811][869]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.09.51:383][223]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.10.03:768][966]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.10.08:952][277]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.10.17:173][770]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.10.23:742][164]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.10.27:780][406]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.10.29:345][500]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.10.41:518][230]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.10.42:348][280]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.10.45:860][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.10.47:197][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.10.49:432][704]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.10.54:716][ 21]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.11.17:469][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.11.19:736][522]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_Lecture7)
+[2019.04.04-05.11.21:324][616]Cmd: DELETE
+[2019.04.04-05.11.21:324][616]Cmd: ACTOR DELETE
+[2019.04.04-05.11.21:652][616]LogEditorActor: Deleted Actor: Emitter
+[2019.04.04-05.11.21:677][616]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.04.04-05.11.23:052][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.11.33:970][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.11.35:998][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.11.38:098][599]LogParticles: Warning: MaxCount = 1016 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.11.40:328][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.11.40:349][731]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_TempBABF542D4105E9F02A34428F904FBABE.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.11.40:820][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.11.41:690][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.04-05.11.43:937][942]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_Lecture7_Temp)
+[2019.04.04-05.11.53:379][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.04-05.12.02:022][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.12.18:194][986]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.12.31:014][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.12.42:082][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.12.49:116][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.12.56:201][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.12.57:535][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.12.59:219][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.13.00:386][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.13.04:336][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.13.05:470][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.13.37:080][718]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.13.59:731][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.14.17:500][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.14.17:643][151]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.14.19:601][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.14.22:586][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.14.25:653][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.14.31:254][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.14.36:821][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.14.44:390][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.14.47:756][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.14.57:946][569]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.14.59:036][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.15.00:504][722]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.15.02:848][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.15.02:876][861]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp227C5C8744848E7CADBAB8BAD2CFA072.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.15.10:910][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.15.17:262][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.15.26:147][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.15.27:097][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.15.33:415][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.15.33:518][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.15.33:539][698]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp3D80F9334794044A03DA1298567820BD.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.15.39:679][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.15.41:762][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.15.43:930][319]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.15.48:564][597]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.15.52:498][833]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.15.53:881][916]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.15.59:399][247]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.16.02:417][428]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.16.18:300][378]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.16.32:602][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.16.36:552][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.16.36:662][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.16.36:690][478]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp9BF14F7142BB676D378E028D8A311784.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.16.48:161][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.16.49:327][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.16.54:429][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.16.54:518][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.16.54:538][546]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_TempA6166E6B497D49C2D4BE5BB2971DE11F.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.16.54:983][572]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.17.05:176][183]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.17.11:066][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.17.19:768][ 58]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.17.25:853][423]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.17.28:553][585]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.17.35:071][976]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.17.40:223][285]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.17.46:457][659]LogCascade: Non-seeded module ParticleModuleAttractorPoint
+[2019.04.04-05.17.48:445][777]LogCascade: Non-seeded module ParticleModuleAttractorPoint
+[2019.04.04-05.17.48:452][777]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.17.49:832][859]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.17.51:555][962]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.17.54:338][129]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.18.05:756][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.18.05:865][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.18.05:890][819]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp6708202B4EE5AB2EC980E8A53726F8D8.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.18.06:259][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.18.15:877][414]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_Lecture7_Temp)
+[2019.04.04-05.18.22:412][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.18.26:404][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lecture7" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Maps/Lecture7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.04-05.18.26:526][ 39]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Lecture7E732B54842941024166807901BFF5925.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Maps/Lecture7.umap'
+[2019.04.04-05.18.26:562][ 39]LogFileHelpers: Saving map 'Lecture7' took 0.158
+[2019.04.04-05.18.26:564][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset" SILENT=true
+[2019.04.04-05.18.26:579][ 39]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture74ED9E0A6406A91BFCC6DA0823E4B1D80.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset'
+[2019.04.04-05.18.26:579][ 39]LogFileManager: Warning: DeleteFile was unable to delete '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset', retrying in .5s...
+[2019.04.04-05.18.27:080][ 39]LogFileManager: Error: Error deleting file '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset'.
+[2019.04.04-05.18.27:080][ 39]LogSavePackage: Error: Error saving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset'
+[2019.04.04-05.18.32:234][ 39]LogSlate: Window 'Message' being destroyed
+[2019.04.04-05.18.32:242][ 39]EditorErrors: New page: Save Output
+[2019.04.04-05.18.32:242][ 39]EditorErrors: Warning: Error saving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7.uasset'
+[2019.04.04-05.18.33:331][ 39]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.04.04-05.18.36:159][208]LogSlate: Window 'Message Log' being destroyed
+[2019.04.04-05.18.36:164][208]LogSlate: Window 'Message Log' being destroyed
+[2019.04.04-05.19.05:076][141]LogCascade: Non-seeded module ParticleModuleAcceleration
+[2019.04.04-05.19.05:081][141]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.19.06:260][210]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.19.12:813][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.19.15:298][750]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.19.18:174][921]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.19.22:995][209]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.19.24:586][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.19.29:104][575]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.19.36:006][989]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.19.38:372][131]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.19.42:705][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.19.43:956][466]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.19.45:341][549]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.19.48:857][760]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.19.51:508][919]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.19.56:899][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.19.56:923][241]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_TempA8A5F44045F5BA92FEB466B1574A01A6.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.19.57:275][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.20.03:601][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.20.09:189][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.20.15:403][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.20.15:470][346]MapCheck: New page: Map Check
+[2019.04.04-05.20.15:495][346]Cmd: MAP REBUILD ALLVISIBLE
+[2019.04.04-05.20.15:495][346]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.04.04-05.20.15:714][346]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_BlackBackground, compiling. 
+[2019.04.04-05.20.15:723][346]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Mat_Lecture7, compiling. 
+[2019.04.04-05.20.16:064][346]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.04-05.20.16:065][346]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.04-05.20.16:065][346]TextureStreamingBuild: Display: Compiling optional shaders took 0.383 seconds.
+[2019.04.04-05.20.16:065][346]LogLevel: Display: Export Material TexCoord Scales took 0.001 seconds.
+[2019.04.04-05.20.16:072][346]TextureStreamingBuild: Display: Build Texture Streaming took 0.007 seconds.
+[2019.04.04-05.20.16:120][346]LightingResults: New page: Lighting Build - Apr 4, 2019, 11:20:16 PM
+[2019.04.04-05.20.16:252][346]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.04.04-05.20.16:565][346]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.04.04-05.20.16:582][346]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.04.04-05.20.17:620][346]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.04.04-05.20.17:620][346]LogSwarmInterface: [TryOpenConnection] Local Process ID is 36556
+[2019.04.04-05.20.22:324][346]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.04.04-05.20.22:325][346]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.04.04-05.20.22:325][346]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.04.04-05.20.22:325][346]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.04.04-05.20.22:325][346]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.04.04-05.20.22:325][346]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.04.04-05.20.22:519][346]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.04.04-05.20.22:519][346]MapCheck: New page: Lecture7 - Apr 4, 2019, 11:20:22 PM
+[2019.04.04-05.20.22:520][346]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.04.04-05.20.22:548][346]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 28.833ms to complete.
+[2019.04.04-05.20.22:572][346]LogEditorBuildUtils: Build time 0:07
+[2019.04.04-05.20.22:608][346]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_BlackBackground, compiling. 
+[2019.04.04-05.20.22:624][346]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_BlackBackground, compiling. 
+[2019.04.04-05.20.22:713][346]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.04-05.20.22:713][346]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.04-05.20.25:309][444]Job is a success!
+[2019.04.04-05.20.25:378][445]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.017s
+[2019.04.04-05.20.25:379][445]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.04.04-05.20.25:379][445]LogVolumetricLightmapImport:      BrickData 10x5x5 = 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.04.04-05.20.25:379][445]LogVolumetricLightmapImport:      Bricks at Level
+[2019.04.04-05.20.25:379][445]LogVolumetricLightmapImport:          0: 50.0% covering 100.0% of volume
+[2019.04.04-05.20.25:379][445]LogVolumetricLightmapImport:          1: 50.0% covering 1.6% of volume
+[2019.04.04-05.20.25:379][445]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.04.04-05.20.25:492][445]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2019.04.04-05.20.25:492][445]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2019.04.04-05.20.25:492][445]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 64X64)
+[2019.04.04-05.20.25:523][445]Lightmass on DESKTOP-LIVI8DJ: 1.42 sec total, 257 ms importing, 55 ms setup, 396 ms photons, 601 ms processing, 0 ms extra exporting [1/1 mappings]. Threads: 4.04 sec total, 55 ms processing.
+[2019.04.04-05.20.25:578][445]LogStaticLightingSystem: Illumination: 9.44 sec (2 ms encoding lightmaps, 2 ms encoding shadowmaps)
+[2019.04.04-05.20.25:578][445]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.04.04-05.20.25:578][445]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.04.04-05.20.26:337][445]DumpUnbuiltLightIteractions
+[2019.04.04-05.20.26:337][445]Lights with unbuilt interactions: 0
+[2019.04.04-05.20.26:337][445]
+[2019.04.04-05.20.26:337][445]Primitives with unbuilt interactions: 0
+[2019.04.04-05.20.26:389][446]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.04.04-05.20.26:389][446]MapCheck: New page: Lecture7 - Apr 4, 2019, 11:20:26 PM
+[2019.04.04-05.20.26:390][446]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.548ms to complete.
+[2019.04.04-05.20.27:544][515]LogSlate: Window 'Message Log' being destroyed
+[2019.04.04-05.20.27:553][515]LogSlate: Window 'Message Log' being destroyed
+[2019.04.04-05.20.31:274][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.04-05.20.32:057][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.04-05.20.34:047][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.20.40:411][275]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.20.50:792][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.21.00:936][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.21.07:791][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.21.13:883][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.21.29:212][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.21.33:133][385]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.21.40:835][847]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.21.43:809][ 25]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.21.43:818][ 25]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.04-05.21.44:757][ 80]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.21.46:668][194]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.21.47:151][223]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.21.50:337][414]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.22.01:443][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.22.01:471][ 79]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp7264A53548C4DAE1CC837683103EB683.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.22.04:616][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.22.27:540][640]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.22.29:866][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.22.29:890][778]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_TempEEE96EEC4286A6F5BC6AD49E0DD0EEED.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.22.37:043][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.22.42:228][517]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.22.43:419][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.22.43:441][587]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp350E5D224F7031E988BF2FBCADF872CD.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.22.47:358][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.22.48:945][916]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.22.49:927][975]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.22.51:070][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.22.51:092][ 42]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp728CBD8C4EE3B4D274DC9EA6C07A60FE.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.22.58:299][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.23.00:486][604]LogParticles: Warning: MaxCount =  610 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.23.01:791][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.23.01:815][681]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp88DC57FA458947936E5430A1F1E46F80.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.23.06:782][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.23.26:763][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.23.30:553][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.23.32:053][491]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.23.33:328][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.23.33:351][566]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_TempF2AF38CA4A5BB958B3F17884F0C8055E.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.24.14:912][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.24.16:165][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.24.16:185][132]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp1724E0C34F0FDE6F5718C1B235A37758.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.24.28:449][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.28.27:919][215]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Lecture7_Auto1BD61559C46D877F1B0F629B991F3CB29.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Autosaves/Game/Maps/Lecture7_Auto1.umap'
+[2019.04.04-05.28.27:922][215]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lecture7' took 0.126
+[2019.04.04-05.28.27:922][215]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.126
+[2019.04.04-05.28.27:925][215]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Lecture7/PS_Lecture7] ([1] browsable assets)...
+[2019.04.04-05.28.27:925][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lecture7/PS_Lecture7]
+[2019.04.04-05.28.27:939][215]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Auto1216CC8BD438C72336C19DC83EFAB6A0F.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Autosaves/Game/Lecture7/PS_Lecture7_Auto1.uasset'
+[2019.04.04-05.28.27:941][215]LogFileHelpers: Auto-saving content packages took 0.017
+[2019.04.04-05.36.39:540][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.36.58:365][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.37.19:381][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.37.29:319][644]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.37.43:716][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.37.49:291][286]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.04-05.37.51:951][444]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.37.57:716][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.38.03:140][113]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.38.09:865][516]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.38.12:610][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.38.14:727][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.38.18:010][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.38.19:028][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.38.28:762][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.38.29:578][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.38.32:346][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.38.36:237][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.38.39:206][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.38.41:157][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.38.44:307][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.38.46:858][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.38.48:742][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.38.54:232][171]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.38.57:201][345]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.38.59:934][509]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.39.15:471][440]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.39.18:296][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.39.21:496][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.39.26:631][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.39.28:013][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.39.29:698][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.39.32:114][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.39.34:600][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.39.37:485][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.39.45:692][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.39.48:559][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.39.52:011][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.39.54:061][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.39.55:677][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.39.56:310][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.39.58:994][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.40.05:645][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.40.09:629][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.40.09:741][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.40.09:877][694]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp08E0F3244AE926FE867D48BEA4048079.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.40.10:228][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.40.16:780][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.40.25:163][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.40.29:880][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.40.29:967][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.40.29:989][895]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_TempF3AC6D3A4AA9C95C25F513B448CE94D8.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.40.31:344][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.40.35:495][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.40.35:615][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.40.35:640][231]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp0D94D0904F761727ACF92895480E266C.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.40.35:955][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.40.43:339][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.40.45:090][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.40.47:323][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.40.49:841][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.40.49:963][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.40.49:992][ 88]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp727F86F64AB7B4624BBB5584C4873176.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.40.51:246][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.41.06:720][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.41.09:654][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.41.12:338][428]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.41.15:096][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.41.15:121][592]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp3DCA63FD48A8D6B2B882BC885C2A7C35.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.41.15:642][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.41.42:503][234]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.42.11:475][972]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.42.13:896][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.42.13:923][116]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp8394F52041FD057154033EB83B0AA3C0.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.42.14:291][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.42.37:620][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.42.42:173][810]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.42.42:590][835]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.42.46:124][ 47]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.42.46:220][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.42.46:245][ 51]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_TempA822726A4AF39C38AD5B47AA4559266B.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.42.46:580][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.42.49:801][264]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.42.50:100][282]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.42.50:648][315]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.42.52:576][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.42.52:628][429]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp438AFBF34B7808A1255FA5BF4AECED4C.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.42.52:897][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.42.59:219][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.43.03:722][ 93]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.43.05:041][172]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.43.06:363][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.43.06:388][250]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp57910B7C4369AA3F789F8FA3E962E890.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.43.07:100][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.43.18:935][476]Cmd: STAT FPS
+[2019.04.04-05.43.23:553][537]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.43.25:467][652]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.43.26:300][702]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.43.26:833][734]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.43.27:318][763]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.43.27:834][794]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.43.28:961][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.43.28:985][860]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_TempAA48140443E2F24466D1B09FD1FF7928.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.43.37:976][399]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.43.39:350][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.43.39:375][480]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp5A89156643BFC8CC7DD9799120F8D7BA.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.44.09:877][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.04-05.44.11:962][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.44.12:044][418]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.04-05.44.12:065][418]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lecture7.Lecture7:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lecture7.Lecture7:PersistentLevel.Lecture7' with GeneratedClass '/Game/Maps/Lecture7.Lecture7_C' with ClassGeneratedBy '/Game/Maps/Lecture7.Lecture7:PersistentLevel.Lecture7'
+[2019.04.04-05.44.12:066][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.04-05.44.12:066][418]PIE: New page: PIE session: Lecture7 (Apr 4, 2019, 11:44:12 PM)
+[2019.04.04-05.44.12:096][418]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lecture7
+[2019.04.04-05.44.12:098][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002397s)
+[2019.04.04-05.44.12:102][418]LogAIModule: Creating AISystem for world Lecture7
+[2019.04.04-05.44.12:102][418]LogPlayLevel: PIE: World Init took: (0.003728s)
+[2019.04.04-05.44.12:102][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lecture7.Lecture7 to /Game/Maps/UEDPIE_0_Lecture7.Lecture7 (0.006582s)
+[2019.04.04-05.44.12:173][418]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.04-05.44.12:278][418]LogInit: FAudioDevice initialized.
+[2019.04.04-05.44.12:341][418]LogLoad: Game class is 'GameModeBase'
+[2019.04.04-05.44.12:343][418]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lecture7.Lecture7 up for play (max tick rate 60) at 2019.04.04-14.44.12
+[2019.04.04-05.44.12:343][418]LogWorld: Bringing up level for play took: 0.000951
+[2019.04.04-05.44.12:430][418]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.04.04-05.44.12:431][418]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lecture7 0.664
+[2019.04.04-05.44.12:432][418]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lecture7.Lecture7:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lecture7.Lecture7:PersistentLevel.Lecture7' with GeneratedClass '/Game/Maps/Lecture7.Lecture7_C' with ClassGeneratedBy '/Game/Maps/Lecture7.Lecture7:PersistentLevel.Lecture7'
+[2019.04.04-05.44.23:350][ 71]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lecture7.Lecture7:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lecture7.Lecture7:PersistentLevel.Lecture7' with GeneratedClass '/Game/Maps/Lecture7.Lecture7_C' with ClassGeneratedBy '/Game/Maps/Lecture7.Lecture7:PersistentLevel.Lecture7'
+[2019.04.04-05.44.23:350][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.04-05.44.23:387][ 71]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.04-05.44.23:387][ 71]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lecture7.Lecture7:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lecture7.Lecture7:PersistentLevel.Lecture7' with GeneratedClass '/Game/Maps/Lecture7.Lecture7_C' with ClassGeneratedBy '/Game/Maps/Lecture7.Lecture7:PersistentLevel.Lecture7'
+[2019.04.04-05.44.23:416][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.04-05.44.23:455][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.04.04-05.44.24:730][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.45.03:308][463]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.45.08:294][762]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.45.09:564][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.45.09:926][837]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp7FF9625343D40B6CB22BF2BA560AFB73.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.45.12:054][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.04-05.45.17:015][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.45.30:290][ 54]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.45.32:789][204]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.45.35:189][348]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.45.38:139][525]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.45.39:694][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.45.39:719][617]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp253E14E247C878979DE4928DC28E39C9.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.45.58:166][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.46.10:466][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.46.15:513][751]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.04-05.46.16:472][807]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.46.18:789][945]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.46.20:561][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.46.20:587][ 50]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp2F8DFC1342EBF4E8228006A97FF9B836.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.46.22:457][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.04-05.46.23:613][229]LogEditorViewport: Clicking Background
+[2019.04.04-05.46.24:965][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.46.27:571][465]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.46.52:071][927]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lecture7' took 0.106
+[2019.04.04-05.46.52:074][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lecture7/PS_Lecture7_Temp] ([1] browsable assets)...
+[2019.04.04-05.46.52:080][927]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp]
+[2019.04.04-05.46.52:080][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lecture7/PS_Lecture7_Temp]
+[2019.04.04-05.46.52:104][927]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp_Auto255E7AAC640AE0B4DB449A4B307848D37.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Autosaves/Game/Lecture7/PS_Lecture7_Temp_Auto2.uasset'
+[2019.04.04-05.46.52:105][927]LogFileHelpers: Auto-saving content packages took 0.032
+[2019.04.04-05.46.54:377][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.46.54:399][ 62]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp0EFE534A491A293DD091D18E8D866AFD.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.47.08:925][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.47.20:094][598]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.47.20:849][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.47.20:875][642]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp78B119724ECFE04C3F01C98F9F2FC3BD.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.47.25:815][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.47.29:899][183]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.47.31:156][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.47.31:181][257]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_TempBA7E7BB4499DF5336BB579B5202982C0.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.47.52:985][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.48.14:835][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.48.19:219][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.48.20:707][227]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.48.28:371][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.48.37:207][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.48.47:059][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.48.51:443][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.48.51:537][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.48.51:560][ 75]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp011FE9E44789BE3B30FA77A1440B36C8.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.48.51:929][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.49.01:418][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.49.10:353][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.49.10:439][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.49.10:462][206]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_TempDF850E8B46FD72D75DD4A0B544AD257C.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.49.11:215][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.50.01:170][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.50.04:153][425]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.50.05:868][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.50.07:653][634]LogParticles: Warning: MaxCount = 2016 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.50.13:147][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.50.13:178][962]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp86FEA26E4D3969E3EBC4ACAEDDC2FEA4.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.50.13:468][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.50.36:002][325]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.50.38:749][488]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.51.15:404][672]LogEditorTransaction: Undo Create New Module
+[2019.04.04-05.51.15:405][672]LogParticles: Warning: MaxCount = 2016 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.51.15:421][672]LogParticles: Warning: MaxCount = 2016 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.51.16:482][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.51.16:597][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.51.16:623][740]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_TempCE1EFE4C409E2D3D7DF8ACBAD18A969B.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.51.16:832][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.51.23:606][157]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Lecture7/PS_Lecture7_GPU.PS_Lecture7_GPU
+[2019.04.04-05.51.30:333][549]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.51.34:713][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.51.37:234][962]LogParticles: Warning: MaxCount = 1210 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_Temp.PS_Lecture7_Temp)
+[2019.04.04-05.51.38:840][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_Temp" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset" SILENT=true
+[2019.04.04-05.51.38:864][ 57]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp74F95FEF4487578C9F942B96FC120CF8.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_Temp.uasset'
+[2019.04.04-05.51.39:315][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.51.48:166][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.51.57:759][186]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.52.07:846][791]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.52.10:536][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.52.13:837][150]LogParticles: Warning: MaxCount = 4032 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_GPU.PS_Lecture7_GPU)
+[2019.04.04-05.52.19:323][479]LogParticles: Warning: MaxCount = 40320 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_GPU.PS_Lecture7_GPU)
+[2019.04.04-05.52.26:939][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.52.28:625][ 37]LogParticles: Warning: MaxCount = 403201 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_GPU.PS_Lecture7_GPU)
+[2019.04.04-05.52.31:605][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_GPU" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_GPU.uasset" SILENT=true
+[2019.04.04-05.52.31:628][214]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_GPU7656B1D34181E1F02E1B77B753FA07C6.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_GPU.uasset'
+[2019.04.04-05.53.38:098][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.53.47:770][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.54.04:050][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_GPU" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_GPU.uasset" SILENT=true
+[2019.04.04-05.54.04:085][710]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_GPU58563FAE4EFB7748F67F54B97F698E44.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_GPU.uasset'
+[2019.04.04-05.54.26:437][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.54.43:715][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.55.01:373][ 78]LogParticles: Warning: MaxCount = 403201 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_GPU.PS_Lecture7_GPU)
+[2019.04.04-05.55.02:648][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_GPU" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_GPU.uasset" SILENT=true
+[2019.04.04-05.55.02:671][153]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_GPU951CD06D4ABBB81EA1ED319A592875A3.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_GPU.uasset'
+[2019.04.04-05.55.08:470][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.55.12:842][758]LogParticles: Warning: MaxCount = 403201 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_GPU.PS_Lecture7_GPU)
+[2019.04.04-05.55.30:643][820]LogEditorViewport: Clicking Background
+[2019.04.04-05.55.54:550][233]LogParticles: Warning: Spawning 33991 GPU particles in one frame[245234]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.55.54:885][234]LogParticles: Warning: Spawning 33391 GPU particles in one frame[245235]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.55.55:219][235]LogParticles: Warning: Spawning 33333 GPU particles in one frame[245236]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.55.55:566][236]LogParticles: Warning: Spawning 33851 GPU particles in one frame[245237]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.55.55:894][237]LogParticles: Warning: Spawning 33407 GPU particles in one frame[245238]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.55.56:227][238]LogParticles: Warning: Spawning 33613 GPU particles in one frame[245239]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.55.56:560][239]LogParticles: Warning: Spawning 33369 GPU particles in one frame[245240]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.55.56:893][240]LogParticles: Warning: Spawning 33334 GPU particles in one frame[245241]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.55.57:227][241]LogParticles: Warning: Spawning 33333 GPU particles in one frame[245242]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.55.57:563][242]LogParticles: Warning: Spawning 33469 GPU particles in one frame[245243]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.55.57:896][243]LogParticles: Warning: Spawning 33333 GPU particles in one frame[245244]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.55.58:227][244]LogParticles: Warning: Spawning 33334 GPU particles in one frame[245245]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.55.58:564][245]LogParticles: Warning: Spawning 33333 GPU particles in one frame[245246]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.55.58:895][246]LogParticles: Warning: Spawning 33334 GPU particles in one frame[245247]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.55.59:228][247]LogParticles: Warning: Spawning 33334 GPU particles in one frame[245248]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.55.59:562][248]LogParticles: Warning: Spawning 33334 GPU particles in one frame[245249]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.55.59:895][249]LogParticles: Warning: Spawning 33333 GPU particles in one frame[245250]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.00:227][250]LogParticles: Warning: Spawning 33333 GPU particles in one frame[245251]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.00:539][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.56.00:557][251]LogParticles: Warning: Spawning 33334 GPU particles in one frame[245252]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.02:368][340]LogParticles: Warning: Spawning 33623 GPU particles in one frame[245341]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.02:705][341]LogParticles: Warning: Spawning 33334 GPU particles in one frame[245342]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.03:033][342]LogParticles: Warning: Spawning 33333 GPU particles in one frame[245343]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.03:988][400]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.04-05.56.04:008][400]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Lecture7.Lecture7:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lecture7.Lecture7:PersistentLevel.Lecture7' with GeneratedClass '/Game/Maps/Lecture7.Lecture7_C' with ClassGeneratedBy '/Game/Maps/Lecture7.Lecture7:PersistentLevel.Lecture7'
+[2019.04.04-05.56.04:008][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.04-05.56.04:008][400]PIE: New page: PIE session: Lecture7 (Apr 4, 2019, 11:56:04 PM)
+[2019.04.04-05.56.04:008][400]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lecture7
+[2019.04.04-05.56.04:010][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002369s)
+[2019.04.04-05.56.04:011][400]LogAIModule: Creating AISystem for world Lecture7
+[2019.04.04-05.56.04:012][400]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2019.04.04-05.56.04:012][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lecture7.Lecture7 to /Game/Maps/UEDPIE_0_Lecture7.Lecture7 (0.003795s)
+[2019.04.04-05.56.04:065][400]LogInit: XAudio2 using '스피커 / 헤드폰(Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.04-05.56.04:172][400]LogInit: FAudioDevice initialized.
+[2019.04.04-05.56.04:212][400]LogLoad: Game class is 'GameModeBase'
+[2019.04.04-05.56.04:213][400]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lecture7.Lecture7 up for play (max tick rate 60) at 2019.04.04-14.56.04
+[2019.04.04-05.56.04:214][400]LogWorld: Bringing up level for play took: 0.000588
+[2019.04.04-05.56.04:226][400]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Lecture7 0.459
+[2019.04.04-05.56.04:226][400]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Lecture7.Lecture7:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lecture7.Lecture7:PersistentLevel.Lecture7' with GeneratedClass '/Game/Maps/Lecture7.Lecture7_C' with ClassGeneratedBy '/Game/Maps/Lecture7.Lecture7:PersistentLevel.Lecture7'
+[2019.04.04-05.56.04:255][401]LogParticles: Warning: Spawning 25694 GPU particles in one frame[245402]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.09:686][707]LogParticles: Warning: Spawning 33627 GPU particles in one frame[245708]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.10:020][708]LogParticles: Warning: Spawning 33416 GPU particles in one frame[245709]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.10:355][709]LogParticles: Warning: Spawning 33445 GPU particles in one frame[245710]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.10:688][710]LogParticles: Warning: Spawning 33333 GPU particles in one frame[245711]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.11:020][711]LogParticles: Warning: Spawning 33334 GPU particles in one frame[245712]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.11:355][712]LogParticles: Warning: Spawning 33334 GPU particles in one frame[245713]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.11:688][713]LogParticles: Warning: Spawning 33333 GPU particles in one frame[245714]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.12:021][714]LogParticles: Warning: Spawning 33333 GPU particles in one frame[245715]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.12:354][715]LogParticles: Warning: Spawning 33334 GPU particles in one frame[245716]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.12:688][716]LogParticles: Warning: Spawning 33333 GPU particles in one frame[245717]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.12:879][717]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.56.13:018][717]LogParticles: Warning: Spawning 33334 GPU particles in one frame[245718]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.13:674][737]LogParticles: Warning: Spawning 33334 GPU particles in one frame[245738]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.14:006][738]LogParticles: Warning: Spawning 33333 GPU particles in one frame[245739]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.14:343][739]LogParticles: Warning: Spawning 33334 GPU particles in one frame[245740]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.14:671][740]LogParticles: Warning: Spawning 33333 GPU particles in one frame[245741]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.18:683][961]LogParticles: Warning: Spawning 33592 GPU particles in one frame[245962]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.19:014][962]LogParticles: Warning: Spawning 33333 GPU particles in one frame[245963]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.19:351][963]LogParticles: Warning: Spawning 33529 GPU particles in one frame[245964]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.19:689][964]LogParticles: Warning: Spawning 33873 GPU particles in one frame[245965]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.19:955][965]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.56.20:019][965]LogParticles: Warning: Spawning 33333 GPU particles in one frame[245966]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.56.21:593][ 60]Cmd: SELECT NONE
+[2019.04.04-05.56.22:228][ 98]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Lecture7.Lecture7:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lecture7.Lecture7:PersistentLevel.Lecture7' with GeneratedClass '/Game/Maps/Lecture7.Lecture7_C' with ClassGeneratedBy '/Game/Maps/Lecture7.Lecture7:PersistentLevel.Lecture7'
+[2019.04.04-05.56.22:228][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.04-05.56.22:264][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.04-05.56.22:265][ 98]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Lecture7.Lecture7:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Lecture7.Lecture7:PersistentLevel.Lecture7' with GeneratedClass '/Game/Maps/Lecture7.Lecture7_C' with ClassGeneratedBy '/Game/Maps/Lecture7.Lecture7:PersistentLevel.Lecture7'
+[2019.04.04-05.56.22:289][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.04-05.56.22:328][100]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.04.04-05.56.22:846][131]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_Lecture7_GPU)
+[2019.04.04-05.56.27:023][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.56.27:900][429]Cmd: DELETE
+[2019.04.04-05.56.27:900][429]Cmd: ACTOR DELETE
+[2019.04.04-05.56.27:904][429]LogEditorActor: Deleted Actor: AtmosphericFog
+[2019.04.04-05.56.27:928][429]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.04.04-05.56.29:902][541]Cmd: DELETE
+[2019.04.04-05.56.29:903][541]Cmd: ACTOR DELETE
+[2019.04.04-05.56.29:905][541]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.04.04-05.56.29:929][541]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.04.04-05.56.34:491][815]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_Lecture7_GPU)
+[2019.04.04-05.56.47:797][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.56.58:236][227]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.57.19:783][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.57.19:907][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_GPU" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_GPU.uasset" SILENT=true
+[2019.04.04-05.57.19:931][524]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_GPUDA8A658F408869BEA146C597B898C629.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_GPU.uasset'
+[2019.04.04-05.57.20:436][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.57.24:396][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.57.29:698][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.57.41:818][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.57.41:981][844]LogTexture: Display: Building textures: ThumbnailTexture (BGRA8, 512X512)
+[2019.04.04-05.57.47:987][203]LogTexture: Display: Building textures: ThumbnailTexture (BGRA8, 512X512)
+[2019.04.04-05.57.50:497][352]LogTexture: Display: Building textures: ThumbnailTexture (BGRA8, 512X512)
+[2019.04.04-05.58.02:397][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.58.05:631][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.58.05:699][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_GPU" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_GPU.uasset" SILENT=true
+[2019.04.04-05.58.05:706][261]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.04.04-05.58.05:775][261]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_GPU00161AE34641B3751002338F26164ECF.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_GPU.uasset'
+[2019.04.04-05.58.06:633][306]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-05.58.34:787][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.59.01:127][563]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Lecture7_Auto3C24C45E84CB6700C93B4EFB2FAE31FE5.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Autosaves/Game/Maps/Lecture7_Auto3.umap'
+[2019.04.04-05.59.01:130][563]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lecture7' took 0.147
+[2019.04.04-05.59.01:130][563]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.147
+[2019.04.04-05.59.01:133][563]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Lecture7/PS_Lecture7_Temp] ([1] browsable assets)...
+[2019.04.04-05.59.01:133][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lecture7/PS_Lecture7_Temp]
+[2019.04.04-05.59.01:146][563]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.04.04-05.59.01:185][563]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_Temp_Auto3D64C95704EEB7C14B7E62B91A8BB9159.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/Autosaves/Game/Lecture7/PS_Lecture7_Temp_Auto3.uasset'
+[2019.04.04-05.59.01:185][563]LogFileHelpers: Auto-saving content packages took 0.053
+[2019.04.04-05.59.01:216][564]LogParticles: Warning: Spawning 24381 GPU particles in one frame[255565]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-05.59.49:867][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-05.59.51:102][557]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_Lecture7_GPU)
+[2019.04.04-05.59.51:533][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.04-05.59.52:412][632]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_Lecture7_GPU)
+[2019.04.04-05.59.55:147][789]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_Lecture7_GPU)
+[2019.04.04-05.59.55:636][815]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.04-06.00.20:161][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-06.00.27:784][733]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-06.00.27:791][733]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.04-06.00.32:196][995]LogParticles: Warning: MaxCount = 403201 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_GPU.PS_Lecture7_GPU)
+[2019.04.04-06.00.34:775][149]LogParticles: Warning: MaxCount = 403201 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_GPU.PS_Lecture7_GPU)
+[2019.04.04-06.00.36:827][272]LogParticles: Warning: MaxCount = 403201 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_GPU.PS_Lecture7_GPU)
+[2019.04.04-06.00.37:912][337]LogParticles: Warning: MaxCount = 403201 for Emitter ParticleSpriteEmitter_0 (/Game/Lecture7/PS_Lecture7_GPU.PS_Lecture7_GPU)
+[2019.04.04-06.01.10:812][210]LogParticles: Warning: Spawning 33335 GPU particles in one frame[263211]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.11:147][211]LogParticles: Warning: Spawning 33445 GPU particles in one frame[263212]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.11:484][212]LogParticles: Warning: Spawning 33623 GPU particles in one frame[263213]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.11:818][213]LogParticles: Warning: Spawning 33333 GPU particles in one frame[263214]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.12:153][214]LogParticles: Warning: Spawning 33552 GPU particles in one frame[263215]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.12:491][215]LogParticles: Warning: Spawning 33725 GPU particles in one frame[263216]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.12:822][216]LogParticles: Warning: Spawning 33334 GPU particles in one frame[263217]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.13:155][217]LogParticles: Warning: Spawning 33336 GPU particles in one frame[263218]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.13:489][218]LogParticles: Warning: Spawning 33333 GPU particles in one frame[263219]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.13:823][219]LogParticles: Warning: Spawning 33334 GPU particles in one frame[263220]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.14:156][220]LogParticles: Warning: Spawning 33333 GPU particles in one frame[263221]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.14:489][221]LogParticles: Warning: Spawning 33334 GPU particles in one frame[263222]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.14:826][222]LogParticles: Warning: Spawning 33598 GPU particles in one frame[263223]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.15:159][223]LogParticles: Warning: Spawning 33402 GPU particles in one frame[263224]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.15:493][224]LogParticles: Warning: Spawning 33333 GPU particles in one frame[263225]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.15:827][225]LogParticles: Warning: Spawning 33334 GPU particles in one frame[263226]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.16:162][226]LogParticles: Warning: Spawning 33353 GPU particles in one frame[263227]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.16:492][227]LogParticles: Warning: Spawning 33333 GPU particles in one frame[263228]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.16:826][228]LogParticles: Warning: Spawning 33334 GPU particles in one frame[263229]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.17:158][229]LogParticles: Warning: Spawning 33334 GPU particles in one frame[263230]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.17:492][230]LogParticles: Warning: Spawning 33334 GPU particles in one frame[263231]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.17:826][231]LogParticles: Warning: Spawning 33334 GPU particles in one frame[263232]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.18:158][232]LogParticles: Warning: Spawning 33334 GPU particles in one frame[263233]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.18:492][233]LogParticles: Warning: Spawning 33333 GPU particles in one frame[263234]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.18:827][234]LogParticles: Warning: Spawning 33334 GPU particles in one frame[263235]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.19:161][235]LogParticles: Warning: Spawning 33410 GPU particles in one frame[263236]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.19:494][236]LogParticles: Warning: Spawning 33334 GPU particles in one frame[263237]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.19:827][237]LogParticles: Warning: Spawning 33334 GPU particles in one frame[263238]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.20:160][238]LogParticles: Warning: Spawning 33333 GPU particles in one frame[263239]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.20:494][239]LogParticles: Warning: Spawning 33333 GPU particles in one frame[263240]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.20:826][240]LogParticles: Warning: Spawning 33334 GPU particles in one frame[263241]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.21:159][241]LogParticles: Warning: Spawning 33333 GPU particles in one frame[263242]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.21:494][242]LogParticles: Warning: Spawning 33334 GPU particles in one frame[263243]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.21:829][243]LogParticles: Warning: Spawning 33449 GPU particles in one frame[263244]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.22:165][244]LogParticles: Warning: Spawning 33611 GPU particles in one frame[263245]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.22:182][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-06.01.22:493][245]LogParticles: Warning: Spawning 33334 GPU particles in one frame[263246]: PS_Lecture7_GPU/Particle Emitter
+[2019.04.04-06.01.27:109][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-06.01.30:253][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lecture7/PS_Lecture7_GPU" FILE="../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_GPU.uasset" SILENT=true
+[2019.04.04-06.01.30:289][708]LogSavePackage: Moving '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Saved/PS_Lecture7_GPUBEEC359C41421FC4889DDEB0DAC45BF0.tmp' to '../../../../4_1/High_Graphics_Effect/Projects/Lecture2_03_11/Content/Lecture7/PS_Lecture7_GPU.uasset'
+[2019.04.04-06.02.12:486][235]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-06.02.15:141][394]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.04-06.02.23:255][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-06.02.25:790][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.04-06.02.25:931][ 40]LogAssetEditorManager: Opening Asset editor for VectorFieldStatic /Game/Lecture7/Cow/vel_219.vel_219
+[2019.04.04-06.02.47:895][229]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.997 s
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: 
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\PrimitiveSceneProxy.cpp] [Line: 708]
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: PrimitiveComponent tried to render with Material LevelColorationUnlitMaterial, which was not present in the component's GetUsedMaterials results
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error:     Owner: None, Resource: PS_Lecture7_GPU
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: Stack: 
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: [Callstack] 0x00007fff38d098d6 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: [Callstack] 0x00007fff38d25284 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: [Callstack] 0x00007fff391b6e97 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: [Callstack] 0x00007fff38ae1bb7 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: [Callstack] 0x00007fff38b3a880 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: [Callstack] 0x00007fff33e30e4d UE4Editor-Renderer.dll!UnknownFunction []
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: [Callstack] 0x00007fff33e15c74 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: [Callstack] 0x00007fff33e400b0 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: [Callstack] 0x00007fff3387a3b9 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: [Callstack] 0x00007fff33d94a62 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: [Callstack] 0x00007fff33d62172 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: [Callstack] 0x00007fff3abe1798 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: [Callstack] 0x00007fff3abe1c56 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: [Callstack] 0x00007fff5bba9af9 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: [Callstack] 0x00007fff5bbaaa74 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: [Callstack] 0x00007fff3b03c500 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: [Callstack] 0x00007fff3b02cac1 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: [Callstack] 0x00007fff994d3dc4 KERNEL32.DLL!UnknownFunction []
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: [Callstack] 0x00007fff99743691 ntdll.dll!UnknownFunction []
+[2019.04.04-06.02.47:895][229]LogOutputDevice: Error: 
+[2019.04.04-06.02.47:895][229]LogStats:                SubmitErrorReport -  0.000 s
